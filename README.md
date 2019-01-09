@@ -1,3 +1,3 @@
 # Template for assignments
 
-Q1: How to assign github assignment?
+create a branch, add some new files. push the new branch to github, do a pull request
